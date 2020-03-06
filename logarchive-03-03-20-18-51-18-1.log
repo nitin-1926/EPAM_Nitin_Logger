@@ -1,0 +1,43 @@
+
+<tr>
+<td>1358</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">This is Debug</td>
+</tr>
+
+<tr>
+<td>1370</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">This is Info</td>
+</tr>
+
+<tr>
+<td>1371</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>WARN</strong></font></td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">This is Warn</td>
+</tr>
+
+<tr>
+<td>1372</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>ERROR</strong></font></td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">This is Error</td>
+</tr>
+
+<tr>
+<td>1373</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>FATAL</strong></font></td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">This is Fatal</td>
+</tr>
+</table>
+<br>
+</body></html>

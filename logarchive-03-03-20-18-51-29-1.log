@@ -1,0 +1,43 @@
+
+<tr>
+<td>1248</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">Enter I or i to calculate SI or CI <br />Enter C or c to calculate cost of construction<br /></td>
+</tr>
+
+<tr>
+<td>5959</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">Enter S or s for Standard Material<br />Enter A or a for Above Standard Material<br />Enter H or h for High Standard Material<br /></td>
+</tr>
+
+<tr>
+<td>8956</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">Enter Total Area Of House<br /></td>
+</tr>
+
+<tr>
+<td>13794</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">Want Fully Automated Home ? (True/False)<br /></td>
+</tr>
+
+<tr>
+<td>17754</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="org.example.App logger">org.example.App</td>
+<td title="Message">Total cost is 1.19922E7</td>
+</tr>
+</table>
+<br>
+</body></html>
